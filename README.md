@@ -1,2 +1,2 @@
 # rideable-polar-bears
-Making Minecraft polar bears into mounts!
+Making Minecraft polar bears into mounts and noble steeds!
